@@ -1,2 +1,2 @@
-# Long-and-Colon-Cancer-Classification
-Long and Colon Cancer Classification using CNN
+# Lung-and-Colon-Cancer-Classification
+Lung and Colon Cancer Classification using CNN
